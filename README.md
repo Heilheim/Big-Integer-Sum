@@ -1,0 +1,1 @@
+# The programme sums integers. The numbers are so big that we can't use the data type int or long, so we use Strings
